@@ -8,7 +8,6 @@ Para usar la app entrá en https://2exp3shinyapps.io/Bayes
 
 *** 
 
-## English
 Interactive Shiny app to develop intuitions about Bayesian reasoning.
 
 In spanish :)
